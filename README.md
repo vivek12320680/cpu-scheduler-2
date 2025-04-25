@@ -1,1 +1,1 @@
-# cpu-scheduler-2
+# CPU Scheduling Algorithm Simulator
